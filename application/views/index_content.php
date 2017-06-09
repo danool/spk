@@ -26,7 +26,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">Air Media Persada</h2>
+                                <h2 class="carousel-title">Sistem Informasi</h2>
                                 <p>AirMedia berusaha memberikan solusi dan produk secara optimal, agar teknologi yang kami berikan dapat tepat guna dan bermanfaat bagi user. <br/> </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Register</a>
