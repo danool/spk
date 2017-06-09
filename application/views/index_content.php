@@ -15,7 +15,7 @@
                         <div class="carousel-centered">
                             <div class="margin-b-40">
                                 <h1 class="carousel-title">Air Media Persada</h1>
-                                <p>PT. Air Media Persada atau lebih dikenal dengan AirMedia adalah Perusahaan Software di Indonesia yang mengembangkan Sistem Informasi berbasis Web.<br/></p>
+                                <p>PT.Air Media Persada atau lebih dikenal dengan AirMedia adalah Perusahaan Software di Indonesia yang mengembangkan Sistem Informasi berbasis Web.<br/></p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Register</a>
                         </div>
